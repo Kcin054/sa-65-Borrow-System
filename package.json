@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@date-io/date-fns": "^2.16.0",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.10",
+    "@mui/x-data-grid": "^5.17.7",
+    "@mui/x-date-pickers": "^5.0.4",
+    "date-fns": "^2.29.3",
+    "moment": "^2.29.4",
+    "react-router-dom": "^6.4.2"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.0.7"
+  }
+}
